@@ -1,0 +1,58 @@
+body {
+	background-color:lightgoldenrodyellow;
+}
+
+body 
+h1{
+	color: deeppink;
+	font-size:x-large;
+	text-decoration:underline;
+	font-weight:50;
+	letter-spacing: 5px;
+	font-family: "roboto",sans-serif;
+}
+h2	{
+	color: coral;
+	font-family: "italic";
+	font-weight: 20;
+	letter-spacing: "5px";
+	font-size: "12px";
+}
+h3	{
+	color: coral;
+	font-family: "italic";
+	font-weight: 20;
+	letter-spacing: "5px";
+	font-size: "12px";
+}
+
+body
+ h4{
+ 	color: coral;
+	font-family: "italic";
+	font-weight: 20;
+	letter-spacing: "5px";
+	font-size: "12px";
+ }
+	
+
+h5	{
+	color: coral;
+	font-family: "italic";
+	font-weight: 20;
+	letter-spacing: "5px";
+	font-size: "12px";
+}
+h6	{
+	color: purple;
+	font-family: "italic";
+	letter-spacing: "20px";
+	font-size: "18px";
+}
+h7	{
+	color: deeppink;
+	font-style: italic;
+}
+h7	{
+	color: deeppink;
+	font-style: italic;
