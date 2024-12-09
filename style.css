@@ -7,8 +7,6 @@ h1{
 	color: deeppink;
 	font-size:x-large;
 	text-decoration:underline;
-	font-weight:50;
-	letter-spacing: 5px;
 	font-family: "roboto",sans-serif;
 }
 h2	{
@@ -16,6 +14,8 @@ h2	{
 	font-family: "italic";
 	font-weight: 20;
 	letter-spacing: "5px";
+	font-weight:50;
+	letter-spacing: 5px;
 	font-size: "12px";
 }
 h3	{
@@ -43,16 +43,11 @@ h5	{
 	letter-spacing: "5px";
 	font-size: "12px";
 }
+
 h6	{
-	color: purple;
-	font-family: "italic";
-	letter-spacing: "20px";
-	font-size: "18px";
-}
-h7	{
 	color: deeppink;
 	font-style: italic;
 }
-h7	{
+h6	{
 	color: deeppink;
 	font-style: italic;
